@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369993856546",
+    "project_id": "crud-7de0a",
+    "storage_bucket": "crud-7de0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369993856546:android:a68243854282d72faf3c7b",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxMRVOMA4f0fdmwvuJaFoQAkqCChKRlwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
